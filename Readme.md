@@ -40,9 +40,14 @@
 - **자율주행**에 필요한 **AI** 기술 학습 및 적용
 - **WebRTC** 기술을 활용하여 자동차 영상 전송
 
-##  기대효과
+## 기대효과
 - Embedded computer system에 대한 이해와 다양한 활용 방안에 대한 연구
 - AI & Robotics & Ultra low latency video streaming에 대한 심도있는 이해
 
 ## 프로젝트 추진 방법
 - 주 1회이상 미팅 진행(회의록)
+
+## 성과
+- 한국IT서비스학회 춘계학술대회에서 'webRTC를 적용한 AI자율주행 영상처리'라는 주제로 발표
+![image](https://user-images.githubusercontent.com/54826050/126258263-1d2135c2-90ee-4208-ae85-c7e02d4efa41.png)
+- 주소: https://www.itservice.or.kr/news01.html?bmode=read&bid=news&id_no=700&l=1
